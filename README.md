@@ -6,7 +6,7 @@
 
  
 <li> 🏢 Software Engineer (Full Stack) <a href="https://www.bld.ai/"> @bld.ai </a> </li>
-<li> 🧰 I build with: `Python`, `Django`, `JavaScript`, `react.js`, `MUI`, `Docker` ... </li>
+<li> 🧰 I build with: <code>Python</code>, <code>Django</code>, <code>JavaScript</code>, <code>react.js</code>, <code>MUI</code>, <code>Docker</code> ... </li>
 <li> ⚡ I enjoy reading, playing soccer, and watch movies :) </li>
 <li> 📫 Reach out to me: mohamed.khedr1714@gmail.com </li>
 <li> 📙 Feel free to checkout my <a href="https://drive.google.com/file/d/1X162XSkYKvlWsBJUrjsbHC02pN739Pnt/view?usp=share_link">resume</a>. </li>
