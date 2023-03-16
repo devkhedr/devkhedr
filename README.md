@@ -1,5 +1,8 @@
 # Hi, I'm Khedr! :blue_heart:
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+Solve+Problems+With+Code)](https://git.io/typing-svg)
+
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=36BCF7FF&width=434&height=50&lines=Software+Engineer;Competitive+Programmer;ACPC+Finalist;I+Solve+Problems+With+Code;" alt="Typing SVG" /></a>
+</p>
 
 ## 	Find me on:
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black"/>](https://github.com/devkhedr/)
