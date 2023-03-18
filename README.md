@@ -1,7 +1,7 @@
 # Hi, I'm Khedr! :blue_heart:
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=36BCF7FF&width=434&height=50&lines=Software+Engineer+%40bld.ai;Competitive+Programmer;ACPC+Finalist;I+Solve+Problems+With+Code;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=36BCF7FF&width=434&height=50&lines=I+Solve+Problems+With+Code;" alt="Typing SVG" /></a>
 </p>
 
 ## 	Find me on:
