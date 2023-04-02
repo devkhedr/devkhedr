@@ -19,20 +19,21 @@
 <li> 📫 Reach out to me: <a href="mailto:mohamed.khedr1714@gmail.com">mohamed.khedr1714@gmail.com</a> </li>
 <li> 📙 Feel free to checkout my <a href="https://drive.google.com/file/d/1X162XSkYKvlWsBJUrjsbHC02pN739Pnt/view?usp=share_link">resume</a>. </li>
 
-
-## 	:ribbon: Languages and Tools:
-![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![python](https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=python&ogoColor=white)
-![javascript](https://img.shields.io/badge/javascript%20-%2300599C.svg?&style=for-the-badge&logo=javascript&ogoColor=white)
-![linux](https://img.shields.io/badge/linux%20-%2300599C.svg?&style=for-the-badge&logo=linux&logoColor=white)
-![git](https://img.shields.io/badge/git%20-%2300599C.svg?&style=for-the-badge&logo=git&logoColor=white)
-![reactjs](https://img.shields.io/badge/reactjs%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white)
-![mui](https://img.shields.io/badge/mui%20-%2300599C.svg?&style=for-the-badge&logo=mui&logoColor=white)
-![django](https://img.shields.io/badge/django%20-%2300599C.svg?&style=for-the-badge&logo=django&logoColor=white)
-![fastapi](https://img.shields.io/badge/fastapi%20-%2300599C.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
-![docker](https://img.shields.io/badge/docker%20-%2300599C.svg?&style=for-the-badge&logo=docker&ogoColor=white)
-![postman](https://img.shields.io/badge/Postman%20-%2300599C.svg?&style=for-the-badge&logo=Postman&ogoColor=white)
-
+## :ribbon: Languages and Tools:
+![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B)
+![python](https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=python)
+![javascript](https://img.shields.io/badge/javascript%20-%2300599C.svg?&style=for-the-badge&logo=javascript)
+![linux](https://img.shields.io/badge/linux%20-%2300599C.svg?&style=for-the-badge&logo=linux)
+![git](https://img.shields.io/badge/git%20-%2300599C.svg?&style=for-the-badge&logo=git)
+![reactjs](https://img.shields.io/badge/reactjs%20-%2300599C.svg?&style=for-the-badge&logo=react)
+![mui](https://img.shields.io/badge/mui%20-%2300599C.svg?&style=for-the-badge&logo=mui)
+![django](https://img.shields.io/badge/django%20-%2300599C.svg?&style=for-the-badge&logo=django)
+![fastapi](https://img.shields.io/badge/fastapi%20-%2300599C.svg?&style=for-the-badge&logo=fastapi)
+![docker](https://img.shields.io/badge/docker%20-%2300599C.svg?&style=for-the-badge&logo=docker)
+![gitlab](https://img.shields.io/badge/gitlab%20-%2300599C.svg?&style=for-the-badge&logo=gitlab)
+![postman](https://img.shields.io/badge/Postman%20-%2300599C.svg?&style=for-the-badge&logo=Postman)
+![redis](https://img.shields.io/badge/redis%20-%2300599C.svg?&style=for-the-badge&logo=redis)
 
 ## :medal_sports: Stats for nerds
-![Khedr's github stats](https://github-readme-stats.vercel.app/api?username=devkhedr&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=devkhedr&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devkhedr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
