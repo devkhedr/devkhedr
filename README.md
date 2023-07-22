@@ -33,7 +33,3 @@
 ![gitlab](https://img.shields.io/badge/gitlab%20-%2300599C.svg?&style=for-the-badge&logo=gitlab)
 ![postman](https://img.shields.io/badge/Postman%20-%2300599C.svg?&style=for-the-badge&logo=Postman)
 ![redis](https://img.shields.io/badge/redis%20-%2300599C.svg?&style=for-the-badge&logo=redis)
-
-## :medal_sports: Stats for nerds
-![](https://github-readme-stats.vercel.app/api?username=devkhedr&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devkhedr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
