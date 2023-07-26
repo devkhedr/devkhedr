@@ -11,7 +11,6 @@
 <li> 🤝 I love collaborating on projects so reach out to me if you have something interesting. </li>
 <li> ⚡ I enjoy reading, playing soccer, and watching movies :) </li>
 <li> 📫 Reach out to me: <a href="mailto:mohamed.khedr1714@gmail.com">mohamed.khedr1714@gmail.com</a> </li>
-<li> 📙 Feel free to checkout my <a href="https://drive.google.com/file/d/1ZBpV773XtLfxQOb3X3JHB5N3vsaiVg9p/view">resume</a>. </li>
 
 ## :ribbon: Languages and Tools:
 ![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B)
