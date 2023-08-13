@@ -6,6 +6,7 @@
 
 ## About me! :tada:
 <li> Software Engineer (Full Stack) <a href="https://www.bld.ai/"> @bld.ai </a> </li>
+<li> ACPC 2022 Finalist. </li>
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Competitive Programming</strong>. </li>
 <li> Reach out to me: <a href="mailto:mohamed.khedr1714@gmail.com">mohamed.khedr1714@gmail.com</a> </li>
 <li> Feel free to checkout my <a href="https://drive.google.com/file/d/1ZBpV773XtLfxQOb3X3JHB5N3vsaiVg9p/view?usp=drive_link" target="_blank">Resume</a> </li>
