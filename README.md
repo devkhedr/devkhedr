@@ -10,7 +10,7 @@
 - 🏆 **ACPC 2022 Finalist** with experience in solving **2000+ algorithmic problems** across platforms.
 - 💡 Experienced in **Django**, **FastAPI**, and building **scalable backend systems**.
 - 🔥 Always open to **new projects and collaborations**—feel free to share your ideas with me!
-- 📬 Reach out at: [mohamed.khedr1714@gmail.com](mailto:mohamed.khedr1714@gmail.com)
+- 📬 Reach out at: [mohamed.khedr.dev@gmail.com](mailto:mohamed.khedr.dev@gmail.com)
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1ZBpV773XtLfxQOb3X3JHB5N3vsaiVg9p/view?usp=drive_link).
 
 ---
