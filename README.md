@@ -3,7 +3,6 @@
 - 🎯 Passionate about **Problem Solving** and **Competitive Programming**.
 - 🏆 **ACPC 2022 Finalist** with experience in solving **2500+ algorithmic problems** across platforms.
 - 📬 Reach out at: [mohamed.khedr.dev@gmail.com](mailto:mohamed.khedr.dev@gmail.com)
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1ZBpV773XtLfxQOb3X3JHB5N3vsaiVg9p/view?usp=drive_link).
 - 🌐 Visit my [Website](https://devkhedr.github.io/portfolio/)
 
 ---
